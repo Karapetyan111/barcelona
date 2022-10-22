@@ -1,0 +1,151 @@
+.img4:hover{
+   transform: scale(1.1);
+   transition: 2s;
+   margin: 0px 30px 20px 30px;
+}
+
+.img3:hover{
+   transform: scale(1.1);
+   margin: 0px 30px 20px 30px;
+   transition: 2s;
+}
+.img5:hover{
+   transform: scale(1.1);
+   margin: 0px 30px 0px 30px;
+   transition: 2s;
+}
+div .img10:hover{
+   margin: 0px 30px 30px 30px;
+transform: scale(1);
+transition: 1s;
+}
+div .img11:hover{
+   transform: scale(1.1);
+   margin: 0px 30px 3px 40px;
+   transition: 1s;
+}
+div .img12:hover{
+   transform: scale(1.1);
+   transition: 1s;
+   margin: 10px 0px 0px 50px;}
+   div .img21:hover{
+      transform: scale(1);
+      transition: 1s;
+   }
+   div .mas1:hover{
+      transform: scale(1.1);
+   transition: 1s;
+      margin: 0px 30px 20px 0px;
+   }
+   div .mas2:hover{
+      margin: 0px 30px 40px 0px;
+      transform: scale(1.1);
+      transition: 1s;
+   }
+   div .mas3:hover{
+      transform: scale(1.1);
+      transition: 1s;
+      margin: 0 0px 40px 30px;
+   }
+   div .mas4:hover{
+      transform: scale(1.1);
+      transition: 1s;
+      margin: 0px 30px 40px 0px;
+   }
+   div .mas5:hover{
+      transform: scale(1.1);
+      transition: 1.5s;
+      margin: 0 0 0 150px;
+   }
+   .barc1{
+      border: 5px solid black;
+   }
+   .barc1:hover{
+      transform: scale(1.4);
+      transition: 1.5s;
+      border-radius: 50px 50px 50px 50px;
+   }
+   .barc1{
+      margin: 0px 0px 0px 40px;
+   }
+   div .img12{
+      margin: 0px 0px 0px 50px;
+   }
+    div .img11{
+       margin: 0 0 0 30px;
+    }
+     .div50 .img17{
+        margin: 0 0 0 650px;
+     }
+   .div50 .video7{
+      margin: 0 0 0 130px;
+   }
+   .div44 .img55{
+      border: 5px double black;
+   }
+   .h11{
+      border: 3px solid black;
+   }
+   .div60 .img61{
+      border: 3px ridge black;
+   }
+   .div60 .img62{
+      border: 3px outset black;
+   }
+   .div60 .img63{
+      border: 3px inset black;
+      margin: 0 0px 0 0px;
+   }
+   .div9 .img18{
+      border: 5px inset black;
+      margin: 0 0 0 0px;
+   }
+   .div9 .imgmessi{
+      border: 5px inset black;
+      margin: 0 0 0 0px;
+   }
+   .div9 .img18:hover{
+      transform: scale(1.1);
+      transition: 2s;
+   }
+   .div9 .imgmessi:hover{
+      transform: scale(1.1);
+      transition: 2s;
+    
+   }
+   .div9 .imgeto{
+      margin: 0 0 0px 0px;
+      border: 5px inset black;
+   }
+   .div9 .imgeto:hover{
+      transform: scale(1.1);
+      transition: 2s;
+   }
+   .divsam .imget{
+      border: 5px inset black;
+      margin: 0 0 0 0px;
+      height: 250px;width: 455px;
+   }
+   .divsam .imget:hover{
+      transform: scale(1.1);
+      transition: 2s;
+   }
+   .div0 .video0{
+      margin: 0 0 0 1300px;
+
+   }
+   .div0 .imgbar{
+      margin: 0 0 60px 0;
+   }
+   .div0 .imgteam{
+      margin: 0 0 0 600px;
+      border: 5px inset black;
+   }
+   .div0 .imgteam:hover{
+      transform: scale(1.1);
+      transition: 2s;
+      border-radius: 25%;
+   }
+   table .tr1 {
+      margin: 0 0 30px 0;
+   }
